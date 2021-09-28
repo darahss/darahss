@@ -2,7 +2,7 @@
 
 - 🦷 I have a degree in dentistry
 - 🌱 But now i'm studying to become a front-end developer 
-- 📚 I’m studying HTML, CSS and javascript
+- 📚 studying HTML, CSS and javascript
 
  <div>
   <a href="https://github.com/darahss">
